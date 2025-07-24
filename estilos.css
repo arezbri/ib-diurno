@@ -36,3 +36,14 @@ a:hover{
     color: rgb(17, 143, 143);
     background: #afaeae;
 }
+
+#perfil span {
+    border:c2px solid green;
+    /* padding:10px; */
+    padding: 7px 15px;
+    /* padding: 5px 15px 40px 100px */
+    border-radius: 1.5rem;
+    background: #adecad;
+    color: green;
+    margin-left: 15px;
+}
