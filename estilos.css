@@ -9,7 +9,11 @@ etiqueta{}
 body {
     background: #efeeee;
     padding: 0;
-    margin: 0;
+
+/* limitar el tamaño */
+    width: 400px
+/*centrado de contenido automatico*/
+    margin: auto;
 }
 
 
